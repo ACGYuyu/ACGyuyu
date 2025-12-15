@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/yuyucode/yuyucode/main/assets/banner.gif" alt="Welcome Banner - 可爱像素风">
   <br>
-  <h1>✨ 魔法少女 YuYuCode 的代码研究所 ✨</h1>
+  <h1>✨ 欢迎光临 ACGyuyu 的代码研究所 ✨</h1>
   <p>Hello World! 欢迎来到我的赛博结界！<br>
   我是在次元裂隙中穿梭的代码魔法师，目标是创造出能治愈世界的程序。</p>
 </div>
@@ -35,9 +35,9 @@
 
 | 平台 | 链接 |
 | :--- | :--- |
-| **主页/域名** | [xiaowangc.com](https://xiaowangc.com) (请替换为你的实际链接) |
-| **电子邮箱** | <a href="mailto:your_email@example.com">📮 给我发邮件</a> |
-| **QQ/微信** | 偷偷告诉你 (请自行填写或删除) |
+| **主页/域名** | [xiaowangc.com](https://www.xiaowangc.com) (暂不维护了) |
+| **电子邮箱** | <a href="mailto:780312916@qq.com">📮 给我发邮件</a> |
+| **QQ/微信** | 偷偷告诉你  |
 
 ---
 
@@ -57,8 +57,8 @@
 
 ## 🌙 正在进行的冒险 (Current Focus)
 
-* **当前项目：** 正在用 **[React/Vue]** 重构我的个人博客，力求打造最萌的 UI！
-* **学习中：** 深入研究 **[Rust/Go]**，想用它来加速我的魔法脚本。
+* **当前项目：** 正在用 **[Svelte/Gin]** ，力求打造最萌的 UI！
+* **学习中：** 深入研究 **[Svelte/Go]**，想用它来加速我的魔法脚本。
 * **日常：** 沉迷于最新的**异世界番剧**中，寻找新的灵感！
 
 > “代码是咒语，Bug是诅咒。消除诅咒，才能迎来完美的结局！”
